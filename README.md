@@ -2,8 +2,6 @@
 
 ### Aspiring Ethical Hacker & Cybersecurity Enthusiast & Tech Explorer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kar-hk&label=Profile views&color=0e75b6&style=flat" alt="kar-hk" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kar-hk" alt="kar-hk" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hanzohani" target="blank"><img src="https://img.shields.io/twitter/follow/hanzohani?logo=twitter&style=for-the-badge" alt="hanzohani" /></a> </p>

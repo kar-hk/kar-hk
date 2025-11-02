@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working on **a Full Stack Modern Nutrition Workshop Management System** / **WeatherScope Tamil Nadu**
 
-- 🌱 I'm currently learning **Python,C,C++,Linux and Java**
+- 🌱 I'm currently learning **Python,C#,C++,Linux and Java**
 
 - 👯 I'm looking to collaborate on **School/College Level CS Projects**
 

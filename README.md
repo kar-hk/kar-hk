@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/hanzohani" target="blank"><img src="https://img.shields.io/twitter/follow/hanzohani?logo=twitter&style=for-the-badge" alt="hanzohani" /></a> </p>
 
-- 🔭 I'm currently working on **a Full Stack Modern Nutrition Workshop Management System**
+- 🔭 I'm currently working on **a Full Stack Modern Nutrition Workshop Management System** / **WeatherScope Tamil Nadu**
 
 - 🌱 I'm currently learning **Python,C,C++,Linux and Java**
 

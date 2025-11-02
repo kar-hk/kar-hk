@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sshanishkar04@hotmail.com**
 
-- ⚡ Fun fact **just school kid >_<**
+- ⚡ Fun fact: **just an ordinary school kid >_<**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

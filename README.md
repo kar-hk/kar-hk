@@ -33,12 +33,12 @@ I like clean code, dark themes, and learning something new every day.
 
 ### 🚀 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,html,css&theme=dark" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,js,html,css&theme=dark" height="45"/>
 </p>
 
 ### 🛠 IDEs & Operating Systems  
 <p>
-  <img src="https://skillicons.dev/icons?i=pycharm,clion,vscode,linux,kali&theme=dark" height="45"/>
+  <img src="https://skillicons.dev/icons?i=pycharm,clion,vscode,visualstudio,linux,arch,kali&theme=dark" height="45"/>
 </p>
 
 ### ⚡ Backend, Databases & Frameworks  
@@ -48,7 +48,7 @@ I like clean code, dark themes, and learning something new every day.
 
 ### 📦 Extra Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=anaconda,postman,bash,powershell&theme=dark" height="45"/>
+  <img src="https://skillicons.dev/icons?i=anaconda,postman,ps,docker,bash,powershell&theme=dark" height="45"/>
 </p>
 
 ---

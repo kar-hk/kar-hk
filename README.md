@@ -19,6 +19,7 @@
 <table>
 <tr>
 <td width="60%">
+  
 I’m a student diving deep into programming & cybersecurity.  
 I like clean code, dark themes, and learning something new every day.
 

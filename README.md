@@ -9,9 +9,9 @@
 
   <!-- dark anime hacker banner -->
   <img src="https://cdn.pfps.gg/banners/91687-noctornus.gif" width="520" style="border-radius:8px;margin-top:15px;" />
-  
- <!-- Discord Status RIGHT BELOW the typing intro -->
-  <img src="https://lanyard.cnrad.dev/api/911912266511835137?theme=dark&bg=1a1a1a&borderRadius=6px&idleMessage=nothing%20rm" style="margin-top:15px;"/>
+
+  <!-- Discord Status BELOW banner (correct placement) -->
+  <img src="https://lanyard.cnrad.dev/api/911912266511835137?theme=dark&bg=1a1a1a&borderRadius=6px&idleMessage=nothing%20rm" style="margin-top:18px;"/>
 
 </div>
 

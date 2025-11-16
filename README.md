@@ -1,10 +1,14 @@
+<!-- ========================= -->
+<!--     🐉 GOATED DARK        -->
+<!-- ========================= -->
+
 <div align="center">
 
   <!-- dark typing intro -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Aspiring+Ethical+Hacker;Tech+Explorer;Cybersecurity+Enthusiast" />
 
   <!-- dark anime hacker banner -->
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000084187207a4d0e83adea8ebe2&ts=489805&p=fs&cid=1&sig=3691749a4d3a10848d72fe51467e1da4c49ba87a3a82ce7a231d46bfa64cb5a8&v=0" width="520" style="border-radius:8px;margin-top:15px;" />
+  <img src="https://i.imgur.com/qZyPcbC.gif" width="520" style="border-radius:8px;margin-top:15px;" />
 
 </div>
 
@@ -28,20 +32,25 @@ I like clean code, dark themes, and learning something new every day.
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,javascript&theme=dark" height="45"/>
 </p>
+
 ### 🛠 IDEs & Operating Systems  
 <p>
   <img src="https://skillicons.dev/icons?i=pycharm,clion,vscode,linux,kali&theme=dark" height="45"/>
 </p>
+
 ### ⚡ Backend, Databases & Frameworks  
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,git,unity,arduino&theme=dark" height="45"/>
 </p>
+
 ### 📦 Extra Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=anaconda,postman,bash,powershell&theme=dark" height="45"/>
 </p>
+
 ---
-# 📊 GitHub Stats 
+
+# 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kar-hk&show_icons=true&theme=dark&hide_border=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar-hk&layout=compact&theme=dark&hide_border=true" width="48%">
@@ -69,7 +78,6 @@ I like clean code, dark themes, and learning something new every day.
 
 ---
 
-# 
 <div align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="380" style="border-radius:8px;">
   <br><br>

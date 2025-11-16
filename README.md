@@ -1,4 +1,4 @@
-<img width="1113" height="453" alt="image" src="https://cdn.pfps.gg/banners/87188-chase-your-dreams.png" /><!-- ========================= -->
+<img width="453" height="453" alt="image" src="https://cdn.pfps.gg/banners/87188-chase-your-dreams.png" /><!-- ========================= -->
 <!--     🐉 GOATED DARK        -->
 <!-- ========================= -->
 
@@ -30,7 +30,7 @@ I like clean code, dark themes, and learning something new every day.
 
 <td width="40%" align="center">
 
-<img src="https://cdn.pfps.gg/banners/54275-zorofight.gif" width="453" style="border-radius:10px;"/>
+<img src="https://cdn.pfps.gg/banners/67305-chillin.gif" width="453" style="border-radius:10px;"/>
 
 </td>
 </tr>

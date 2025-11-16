@@ -1,4 +1,5 @@
-<img width="453" height="453" alt="image" src="https://cdn.pfps.gg/banners/87188-chase-your-dreams.png" /><!-- ========================= -->
+<img src="https://cdn.pfps.gg/banners/87188-chase-your-dreams.png" width="520" style="border-radius:12px;">
+<!-- ========================= -->
 <!--     🐉 GOATED DARK        -->
 <!-- ========================= -->
 

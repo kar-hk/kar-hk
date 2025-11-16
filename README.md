@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Aspiring+Ethical+Hacker;Tech+Explorer;Cybersecurity+Enthusiast" />
 
   <!-- dark anime hacker banner -->
-  <img src="https://i.imgur.com/qZyPcbC.gif" width="520" style="border-radius:8px;margin-top:15px;" />
+  <img src="https://cdn.pfps.gg/banners/91687-noctornus.gif" width="520" style="border-radius:8px;margin-top:15px;" />
 
 </div>
 

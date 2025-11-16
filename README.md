@@ -12,9 +12,10 @@
 ---
 
 # 🖤 About Me  
-<div style="display: flex; align-items: center; justify-content: space-between;">
 
-<div style="flex: 1; min-width: 280px;">
+<table>
+<tr>
+<td width="60%">
 
 I’m a student diving deep into programming & cybersecurity.  
 I like clean code, dark themes, and learning something new every day.
@@ -25,13 +26,15 @@ I like clean code, dark themes, and learning something new every day.
 - 🤝 Collab: **School/College CS Projects**  
 - 📧 Email: **sshanishkar04@hotmail.com**
 
-</div>
+</td>
 
-<div style="margin-left: 20px;">
-  <img src="https://cdn.pfps.gg/banners/91687-noctornus.gif" width="260" style="border-radius:10px;">
-</div>
+<td width="40%" align="center">
 
-</div>
+<img src="https://cdn.pfps.gg/banners/91687-noctornus.gif" width="260" style="border-radius:10px;"/>
+
+</td>
+</tr>
+</table>
 
 ---
 

@@ -1,103 +1,90 @@
-<!-- ======================================= -->
-<!--         🐉 GOATED README HEADER         -->
-<!-- ======================================= -->
+<!-- ========================= -->
+<!--     🐉 GOATED DARK        -->
+<!-- ========================= -->
 
 <div align="center">
 
-  <!-- clean animated intro -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=600&color=00F0FF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Aspiring+Ethical+Hacker;Full+Stack+Developer+in+Progress;Cybersecurity+Learner;Building+Every+Single+Day+🚀" />
+  <!-- dark typing intro -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Aspiring+Ethical+Hacker;Full+Stack+Developer+Learner;Cybersecurity+Enthusiast;Welcome+to+My+Dark+Zone+🌑" />
 
-  <!-- anime hacker aesthetic banner -->
-  <img src="https://media1.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.gif" width="550" style="border-radius:12px;margin-top:10px;" />
-
-  <br><br>
+  <!-- dark anime hacker banner -->
+  <img src="https://i.imgur.com/6XJt7kX.gif" width="520" style="border-radius:8px;margin-top:15px;" />
 
 </div>
 
 ---
 
-# 👨‍💻 About Me  
-I’m a student who loves writing code, breaking things (ethically),  
-and building clean, powerful projects.
+# 🖤 About Me  
+I’m a student diving deep into programming & cybersecurity.  
+I like clean code, dark themes, and learning something new every day.
 
-- 🔥 Currently working on  
-  **WeatherScope TN** & **Nutrition Workshop Manager**
-
-- 🚀 Learning  
-  **Python · C++ · C# · Java · Linux · Backend**
-
-- 🛡 Cybersecurity Interests  
-  **Pentesting · Networking · CTFs · Blue Team Skills**
-
-- 🤝 Open to  
-  **School/College-level CS collaborations**
-
-- 📧 Email  
-  **sshanishkar04@hotmail.com**
+- 🔭 Working on: **WeatherScope TN**, **Nutrition Workshop Manager**  
+- 🧠 Learning: **Python · C++ · C# · Java · Linux**  
+- 🛡 Focus: **Pentesting, Networking, Backend, CTFs**  
+- 🤝 Collab: **School/College CS Projects**  
+- 📧 Email: **sshanishkar04@hotmail.com**
 
 ---
 
-# ⚙️ Tech Stack
-### 🔹 **Languages**
+# ⚙️ Tech Stack  
+### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,javascript" height="45" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,javascript&theme=dark" height="45"/>
 </p>
 
-### 🔹 **Tools / Frameworks**
+### **Tools / Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,nodejs,flask,mongodb,mysql,git,unity,arduino,anaconda" height="45"/>
+  <img src="https://skillicons.dev/icons?i=linux,nodejs,flask,mongodb,mysql,git,unity,arduino,anaconda&theme=dark" height="45"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects  
-(*Pin these on your profile for a perfect portfolio look*)
+# ⭐ Featured Projects  
+### 🌑 **WeatherScope Tamil Nadu**  
+Clean weather dashboard + alerts.  
+**Stack:** React + Python APIs  
 
-### 🌦 WeatherScope Tamil Nadu  
-District-wise weather + alerts + AQI  
-**Tech:** React + Python APIs  
+### 🌑 **Nutrition Workshop Manager**  
+Full-stack workshop automation tool.  
+**Stack:** MERN  
 
-### 🍏 Nutrition Workshop Manager  
-Full-stack workshop automation platform  
-**Tech:** MERN  
-
-### 🎯 CTF Playground  
-Cybersecurity mini-lab + writeups  
-**Tech:** Python + Docker  
+### 🌑 **CTF Playground**  
+Mini-lab for practicing cybersecurity.  
+**Stack:** Python + Docker  
 
 ---
 
-# 📊 GitHub Stats (Clean & Goated)
+# 📊 GitHub Stats (Dark Edition)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kar-hk&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar-hk&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=kar-hk&show_icons=true&theme=dark&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar-hk&layout=compact&theme=dark&hide_border=true" width="48%">
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kar-hk&theme=tokyonight&hide_border=true" width="70%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kar-hk&theme=dark&hide_border=true" width="70%">
 </div>
 
 ---
 
-# 🧾 Certifications  
+# 🎓 Certifications  
 - Python Basics — HackerRank  
 - JavaScript — Sololearn  
 - Git & GitHub — FreeCodeCamp  
-- Linux Basics — TryHackMe (if done)
+- Linux Beginner  
 
 ---
 
-# 🌐 Connect With Me  
+# 🌐 Socials  
 <p>
-  <a href="https://github.com/kar-hk"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
-  <a href="https://linkedin.com/in/hanishkar"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-  <a href="https://instagram.com/hanishkar__"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
-  <a href="https://hackerrank.com/hanzohani04"><img src="https://skillicons.dev/icons?i=hackerrank" height="40"></a>
+  <a href="https://github.com/kar-hk"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40"></a>
+  <a href="https://linkedin.com/in/hanishkar"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40"></a>
+  <a href="https://instagram.com/hanishkar__"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40"></a>
+  <a href="https://hackerrank.com/hanzohani04"><img src="https://skillicons.dev/icons?i=hackerrank&theme=dark" height="40"></a>
 </p>
 
 ---
 
-# 🔥 Anime × Hacker Footer (Cleanest Touch)
+# 🐾 Dark Anime Footer  
 <div align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="450" style="border-radius:12px;">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="380" style="border-radius:8px;">
   <br><br>
-  <b>Thanks for visiting — Keep coding, keep growing! ⚡</b>
+  <b style="color:white;">Thanks for being here — stay dangerous ⚡</b>
 </div>

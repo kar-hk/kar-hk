@@ -33,7 +33,7 @@ I like clean code, dark themes, and learning something new every day.
 
 ### 🚀 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,javascript&theme=dark" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,javascript,js,html,css&theme=dark" height="45"/>
 </p>
 
 ### 🛠 IDEs & Operating Systems  

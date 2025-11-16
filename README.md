@@ -30,7 +30,7 @@ I like clean code, dark themes, and learning something new every day.
 
 <td width="40%" align="center">
 
-<img src="https://cdn.pfps.gg/banners/93621-kkaynan.png" width="453" style="border-radius:10px;"/>
+<img src="https://cdn.pfps.gg/banners/54275-zorofight.gif" width="453" style="border-radius:10px;"/>
 
 </td>
 </tr>

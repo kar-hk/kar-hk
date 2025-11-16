@@ -27,16 +27,26 @@ I like clean code, dark themes, and learning something new every day.
 ---
 
 # ⚙️ Tech Stack  
-### **Languages**
+
+### 🚀 Languages  
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,java,javascript&theme=dark" height="45"/>
 </p>
 
-### **Tools / Frameworks**
+### 🛠 IDEs & Operating Systems  
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,nodejs,flask,mongodb,mysql,git,unity,arduino,anaconda&theme=dark" height="45"/>
+  <img src="https://skillicons.dev/icons?i=pycharm,clion,vscode,linux,kali&theme=dark" height="45"/>
 </p>
 
+### ⚡ Backend, Databases & Frameworks  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,git,unity,arduino&theme=dark" height="45"/>
+</p>
+
+### 📦 Extra Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=anaconda,postman,bash,powershell&theme=dark" height="45"/>
+</p>
 ---
 
 # 🎓 Certifications  
@@ -115,9 +125,9 @@ Calorie and BMI tracking system
 
 # 🌐 Socials  
 <p>
-  <a href="https://github.com/kar-hk"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40"></a>
-  <a href="https://linkedin.com/in/hanishkar"><img src="httpsillicons.dev/icons?i=linkedin&theme=dark" height="40"></a>
-  <a href="https://instagram.com/hanishkar__"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40"></a>
+  <a href="https://github.com/kar-hk"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40"></a>
+  <a href="https://linkedin.com/in/hanishkar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"></a>
+  <a href="https://instagram.com/hanishkar__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"></a>
   <a href="https://hackerrank.com/hanzohani04"><img src="https://skillicons.dev/icons?i=hackerrank&theme=dark" height="40"></a>
 </p>
 

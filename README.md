@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- dark typing intro -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Aspiring+Ethical+Hacker;Full+Stack+Developer+Learner;Cybersecurity+Enthusiast;Welcome+to+My+Dark+Zone+🌑" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Aspiring+Ethical+Hacker;Tech+Explorer;Cybersecurity+Enthusiast" />
 
   <!-- dark anime hacker banner -->
   <img src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000084187207a4d0e83adea8ebe2&ts=489805&p=fs&cid=1&sig=3691749a4d3a10848d72fe51467e1da4c49ba87a3a82ce7a231d46bfa64cb5a8&v=0" width="520" style="border-radius:8px;margin-top:15px;" />

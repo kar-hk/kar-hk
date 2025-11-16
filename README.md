@@ -6,18 +6,16 @@
 
   <!-- dark typing intro -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Aspiring+Ethical+Hacker;Tech+Explorer;Cybersecurity+Enthusiast" />
-
-  <!-- dark anime hacker banner -->
-  <img src="https://cdn.pfps.gg/banners/91687-noctornus.gif" width="520" style="border-radius:8px;margin-top:15px;" />
-
-  <!-- Discord Status BELOW banner (correct placement) -->
-  <img src="https://lanyard.cnrad.dev/api/911912266511835137?theme=dark&bg=1a1a1a&borderRadius=6px&idleMessage=nothing%20rm" style="margin-top:18px;"/>
-
+  
 </div>
 
 ---
 
 # 🖤 About Me  
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div style="flex: 1; min-width: 280px;">
+
 I’m a student diving deep into programming & cybersecurity.  
 I like clean code, dark themes, and learning something new every day.
 
@@ -26,6 +24,14 @@ I like clean code, dark themes, and learning something new every day.
 - 🛡 Focus: **Pentesting, Networking, Backend, CTFs**  
 - 🤝 Collab: **School/College CS Projects**  
 - 📧 Email: **sshanishkar04@hotmail.com**
+
+</div>
+
+<div style="margin-left: 20px;">
+  <img src="https://cdn.pfps.gg/banners/91687-noctornus.gif" width="260" style="border-radius:10px;">
+</div>
+
+</div>
 
 ---
 

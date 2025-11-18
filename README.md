@@ -7,34 +7,39 @@
 <!-- ========================= -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Aspiring+Ethical+Hacker;Cybersecurity+Enthusiast;Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Aspiring+Ethical+Hacker;Cybersecurity+Enthusiast;Tech+Explorer" alt="typing" />
 </div>
 
 ---
-## 🖤 About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+# 🖤 About Me
 
-<div style="flex: 1;">
+<div style="display:flex;align-items:center;gap:24px;flex-wrap:wrap;max-width:980px;margin:0 auto;">
 
-<h2>Hi, I'm <b>Hanishkar 👋</b></h2>
+  <div style="flex:1;min-width:260px;">
+    <h2 style="margin:0 0 8px 0;font-size:26px;color:#e6eef3;">Hi, I'm <strong>Hanishkar</strong> <span style="font-size:20px">👋</span></h2>
+    <div style="height:1px;background:linear-gradient(90deg,#2b3138,transparent);margin:10px 0 16px 0;"></div>
+    <p style="margin:0 0 12px 0;line-height:1.6;color:#cbd7e0;">
+      I’m a student diving deep into <strong style="color:#ffffff">programming</strong> and <strong style="color:#ffffff">cybersecurity</strong>.<br/>
+      I like clean code, dark themes, and learning something new every day.
+    </p>
 
-I’m a student diving deep into <b>programming</b> and <b>cybersecurity</b>.  
-I like clean code, dark themes, and learning something new every day.
+    <h3 style="display:flex;align-items:center;gap:10px;margin:6px 0 8px 0;font-size:18px;color:#ffb86b;">🔥 What I Do</h3>
 
-### 🔥 What I Do
-- <b>Working on:</b> WeatherScope TN, Nutrition Workshop Manager  
-- <b>Learning:</b> Python, C++, C#, Java, Linux  
-- <b>Focus:</b> Pentesting, Networking, Backend Development, CTFs  
-- <b>Collaboration:</b> School/College CS Projects  
-- <b>Email:</b> <a href="mailto:sshaniskar04@hotmail.com">sshaniskar04@hotmail.com</a>
+    <ul style="margin:8px 0 0 18px;line-height:1.7;color:#cbd7e0;">
+      <li><strong style="color:#ffffff">Working on:</strong> WeatherScope TN, Nutrition Workshop Manager</li>
+      <li><strong style="color:#ffffff">Learning:</strong> Python, C++, C#, Java, Linux</li>
+      <li><strong style="color:#ffffff">Focus:</strong> Pentesting, Networking, Backend Development, CTFs</li>
+      <li><strong style="color:#ffffff">Collaboration:</strong> School/College CS Projects</li>
+      <li><strong style="color:#ffffff">Email:</strong> <a href="mailto:sshaniskar04@hotmail.com" style="color:#6ad3ff;text-decoration:underline;">sshaniskar04@hotmail.com</a></li>
+    </ul>
+  </div>
 
-</div>
-
-<div style="flex: 0.9; text-align:center;">
-  <img src="https://cdn.pfps.gg/banners/67305-chillin.gif" 
-       style="width:100%; border-radius:12px;" />
-</div>
+  <div style="flex:0 0 320px;min-width:220px;display:flex;align-items:center;justify-content:center;">
+    <div style="width:100%;max-width:320px;border-radius:14px;overflow:hidden;box-shadow: 0 10px 38px rgba(2,6,23,0.7);border:1px solid rgba(255,255,255,0.035);background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.004));padding:10px;">
+      <img src="https://cdn.pfps.gg/banners/67305-chillin.gif" alt="Hanishkar GIF" style="display:block;width:100%;height:auto;border-radius:10px;" />
+    </div>
+  </div>
 
 </div>
 
@@ -44,22 +49,22 @@ I like clean code, dark themes, and learning something new every day.
 
 ### 🚀 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,js,html,css&theme=dark" height="45" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,js,html,css&theme=dark" height="45" alt="languages"/>
 </p>
 
 ### 🛠 IDEs & Operating Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=pycharm,clion,vscode,visualstudio,linux,arch,kali&theme=dark" height="45" />
+  <img src="https://skillicons.dev/icons?i=pycharm,clion,vscode,visualstudio,linux,arch,kali&theme=dark" height="45" alt="ides"/>
 </p>
 
 ### ⚡ Backend, Databases & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,git,unity,arduino&theme=dark" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,git,unity,arduino&theme=dark" height="45" alt="backend"/>
 </p>
 
 ### 📦 Extra Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=anaconda,postman,ps,docker,bash,powershell&theme=dark" height="45" />
+  <img src="https://skillicons.dev/icons?i=anaconda,postman,ps,docker,bash,powershell&theme=dark" height="45" alt="tools"/>
 </p>
 
 ---
@@ -67,10 +72,10 @@ I like clean code, dark themes, and learning something new every day.
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kar-hk&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar-hk&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kar-hk&show_icons=true&theme=dark&hide_border=true" width="48%" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar-hk&layout=compact&theme=dark&hide_border=true" width="48%" alt="top languages" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kar-hk&theme=dark&hide_border=true" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kar-hk&theme=dark&hide_border=true" width="70%" alt="streak" />
 </div>
 
 ---
@@ -78,24 +83,24 @@ I like clean code, dark themes, and learning something new every day.
 # 🌐 Socials
 
 <p>
-  <a href="https://github.com/kar-hk">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" />
+  <a href="https://github.com/kar-hk" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="github"/>
   </a>
-  <a href="https://linkedin.com/in/hanishkar">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" />
+  <a href="https://linkedin.com/in/hanishkar" title="LinkedIn" style="margin-left:10px;">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="linkedin"/>
   </a>
-  <a href="https://instagram.com/hanishkar__">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45" />
+  <a href="https://instagram.com/hanishkar__" title="Instagram" style="margin-left:10px;">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" alt="instagram"/>
   </a>
-  <a href="https://hackerrank.com/hanzohani04">
-    <img src="https://skillicons.dev/icons?i=hackerrank&theme=dark" height="45" />
+  <a href="https://hackerrank.com/hanzohani04" title="HackerRank" style="margin-left:10px;">
+    <img src="https://skillicons.dev/icons?i=hackerrank&theme=dark" height="40" alt="hackerrank"/>
   </a>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="380" style="border-radius:8px;" />
-  <br><br>
-  <b>Thanks for being here — stay dangerous ⚡</b>
+<div align="center" style="margin-top:18px;">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300" style="border-radius:10px;" alt="coding" />
+  <br/><br/>
+  <span style="color:#c9d5df;">Thanks for being here — <strong style="color:#ffffff">stay dangerous ⚡</strong></span>
 </div>

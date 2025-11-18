@@ -8,7 +8,7 @@
 <div align="center">
 
   <!-- dark typing intro -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Aspiring+Ethical+Hacker;Cybersecurity+Enthusiast;Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Aspiring+Ethical+Hacker;Cybersecurity+Enthusiast;Tech+Explorer" />
   
 </div>
 
@@ -33,7 +33,7 @@ I like clean code, dark themes, and learning something new every day.
 
 <td width="40%" align="center">
 
-<img src="https://cdn.pfps.gg/banners/67305-chillin.gif" width="453" style="border-radius:10px;"/>
+<img src="https://cdn.pfps.gg/banners/91687-noctornus.gif" width="453" style="border-radius:10px;"/>
 
 </td>
 </tr>

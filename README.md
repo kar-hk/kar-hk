@@ -16,7 +16,7 @@
 <div style="overflow:auto;">
 
   <!-- RIGHT SIDE GIF -->
-  <img src="https://i.pinimg.com/originals/30/39/7d/30397d16dabfb5a0b782307ddc82760b.gif"
+  <img src="https://cdn.pfps.gg/banners/67305-chillin.gif"
        width="260"
        style="float:right; margin-left:20px; border-radius:10px;" />
 

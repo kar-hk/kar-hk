@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.pfps.gg/banners/1587-spider-man-symbiote-suit-night-swing.jpeg" width="750" height="230" style="border-radius:12px; object-fit: cover;">
+  <img src="https://cdn.pfps.gg/banners/90507-pluvieux.jpeg" width="750" height="230" style="border-radius:12px; object-fit: cover;">
 </div>
 <!-- ========================= -->
 <!--     🐉 GOATED DARK        -->

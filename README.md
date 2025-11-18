@@ -19,21 +19,21 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%" valign="top">
   
-Hi, I'm **Hamishkar 👋** I’m a student diving deep into **programming** and **cybersecurity**.  
+Hi, I'm **Hamishkar 👋** I'm a student diving deep into **programming** and **cybersecurity**.  
 I like clean code, dark themes, and learning something new every day.
 
 ---
 
-* 🔭 **Working on:** WeatherScope TN, Nutrition Workshop Manager  
-* 🧠 **Learning:** Python, C++, C#, Java, Linux  
-* 🛡 **Focus:** Pentesting, Networking, Backend Development, CTFs  
-* 🤝 **Collaboration:** School/College CS Projects  
-* 📧 **Email:** [sshaniskar04@hotmail.com](mailto:sshaniskar04@hotmail.com)
+* **<span style="color: #4CAF50;">💡</span> Working on:** WeatherScope TN, Nutrition Workshop Manager  
+* **<span style="color: #2196F3;">🧠</span> Learning:** Python, C++, C#, Java, Linux  
+* **<span style="color: #FFC107;">🎯</span> Focus:** Pentesting, Networking, Backend Development, CTFs  
+* **<span style="color: #E91E63;">🤝</span> Collaboration:** School/College CS Projects  
+* **<span style="color: #9C27B0;">📧</span> Email:** [sshaniskar04@hotmail.com](mailto:sshaniskar04@hotmail.com)
 
 </td>
-<td width="40%" align="center">
+<td width="35%" align="center">
 
 <img src="https://cdn.pfps.gg/banners/67305-chillin.gif" width="100%" style="border-radius:10px;"/>
 

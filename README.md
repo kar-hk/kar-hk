@@ -13,50 +13,39 @@
 </div>
 
 ---
-<br>
-
-## 🖤 About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-  
-Hi there! I'm **Hamishkar 👋** A dedicated student diving deep into **programming** and **cybersecurity**.  
-I prioritize clean code, dark themes, and continuous learning.
-
-<br>
-
-<dl>
-    <dt>**<span style="color: #03A9F4;">✨ Projects</span>**</dt>
-    <dd>_WeatherScope TN, Nutrition Workshop Manager_</dd>
-
-    <dt>**<span style="color: #FF9800;">🔥 Tech Stack</span>**</dt>
-    <dd>Python • C++ • C# • Java • Linux</dd>
-
-    <dt>**<span style="color: #4CAF50;">🔒 Expertise</span>**</dt>
-    <dd>Pentesting / Networking / Backend Dev / CTFs</dd>
-    
-    <dt>**<span style="color: #E91E63;">🤝 Open For</span>**</dt>
-    <dd>School/College CS Projects</dd>
-    
-    <dt>**<span style="color: #9C27B0;">📧 Contact</span>**</dt>
-    <dd><a href="mailto:sshaniskar04@hotmail.com">sshaniskar04@hotmail.com</a></dd>
-</dl>
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://cdn.pfps.gg/banners/67305-chillin.gif" width="100%" style="border-radius:10px;"/>
-
-<br>
 <p align="center">
+  <img src="https://cdn.pfps.gg/banners/67305-chillin.gif" width="100%" style="border-radius:10px;"/>
+</p>
+
+## 🖤 Hamishkar | Programming & Cyber 🛡️
+
+Hi there! I'm **Hamishkar 👋** A dedicated student diving deep into programming and cybersecurity. I value clean code, dark themes, and continuous learning.
+
+---
+
+### 🔥 Skillset & Focus
+
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge">
 </p>
 
-</td>
-</tr>
-</table>
+### 💻 Current Endeavors
+
+| Category | Details | Status Emojis |
+| :--- | :--- | :---: |
+| **Projects** | WeatherScope TN, Nutrition Workshop Manager | 💡 |
+| **Focus** | Pentesting, Networking, Backend Development | 🎯 |
+| **Collaboration** | School/College CS Projects | 🤝 |
+
+---
+
+### 📧 Contact
+
+**sshaniskar04@hotmail.com** (Feel free to reach out!)
 
 ---
 ---

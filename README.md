@@ -25,19 +25,34 @@ Hi there! I'm **Hamishkar 👋** A dedicated student diving deep into **programm
 I prioritize clean code, dark themes, and continuous learning.
 
 <br>
-  
-| Status | Details |
-| :---: | :--- |
-| **✨** | **Projects:** WeatherScope TN, Nutrition Workshop Manager |
-| **🔥** | **Stack:** Python, C++, C#, Java, Linux |
-| **🔒** | **Expertise:** Pentesting, Networking, Backend Development, CTFs |
-| **🤝** | **Open For:** School/College CS Projects |
-| **📧** | **Contact:** [sshaniskar04@hotmail.com](mailto:sshaniskar04@hotmail.com) |
+
+<dl>
+    <dt>**<span style="color: #03A9F4;">✨ Projects</span>**</dt>
+    <dd>_WeatherScope TN, Nutrition Workshop Manager_</dd>
+
+    <dt>**<span style="color: #FF9800;">🔥 Tech Stack</span>**</dt>
+    <dd>Python • C++ • C# • Java • Linux</dd>
+
+    <dt>**<span style="color: #4CAF50;">🔒 Expertise</span>**</dt>
+    <dd>Pentesting / Networking / Backend Dev / CTFs</dd>
+    
+    <dt>**<span style="color: #E91E63;">🤝 Open For</span>**</dt>
+    <dd>School/College CS Projects</dd>
+    
+    <dt>**<span style="color: #9C27B0;">📧 Contact</span>**</dt>
+    <dd><a href="mailto:sshaniskar04@hotmail.com">sshaniskar04@hotmail.com</a></dd>
+</dl>
 
 </td>
 <td width="40%" align="center">
 
 <img src="https://cdn.pfps.gg/banners/67305-chillin.gif" width="100%" style="border-radius:10px;"/>
+
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge">
+</p>
 
 </td>
 </tr>

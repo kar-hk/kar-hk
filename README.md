@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.pfps.gg/banners/86792-jesus-banner.jpeg" width="750" height="230" style="border-radius:12px; object-fit:cover;" />
+  <img src="https://cdn.pfps.gg/banners/86792-jesus-banner.jpeg" width="750" height="230" style="border-radius:12px;" alt="banner" />
 </div>
 
 <!-- ========================= -->
@@ -7,38 +7,51 @@
 <!-- ========================= -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Aspiring+Ethical+Hacker;Cybersecurity+Enthusiast;Tech+Explorer" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Aspiring+Ethical+Hacker;Cybersecurity+Enthusiast;Tech+Explorer"
+       alt="typing" />
 </div>
 
 ---
 
 # 🖤 About Me
 
-<div style="display:flex;align-items:center;gap:24px;flex-wrap:wrap;max-width:980px;margin:0 auto;">
+<!-- Simple, robust two-column layout that works on GitHub -->
+<div style="max-width:980px;margin:0 auto;padding:8px 6px;">
 
-  <div style="flex:1;min-width:260px;">
-    <h2 style="margin:0 0 8px 0;font-size:26px;color:#e6eef3;">Hi, I'm <strong>Hanishkar</strong> <span style="font-size:20px">👋</span></h2>
-    <div style="height:1px;background:linear-gradient(90deg,#2b3138,transparent);margin:10px 0 16px 0;"></div>
-    <p style="margin:0 0 12px 0;line-height:1.6;color:#cbd7e0;">
-      I’m a student diving deep into <strong style="color:#ffffff">programming</strong> and <strong style="color:#ffffff">cybersecurity</strong>.<br/>
-      I like clean code, dark themes, and learning something new every day.
-    </p>
+  <div style="display:flex;flex-wrap:wrap;gap:20px;align-items:center;">
 
-    <h3 style="display:flex;align-items:center;gap:10px;margin:6px 0 8px 0;font-size:18px;color:#ffb86b;">🔥 What I Do</h3>
+    <!-- Left column -->
+    <div style="flex:1;min-width:260px;">
+      <h2 style="margin:0 0 8px 0;color:#e6eef3;">Hi, I'm <strong>Hanishkar</strong> <span>👋</span></h2>
 
-    <ul style="margin:8px 0 0 18px;line-height:1.7;color:#cbd7e0;">
-      <li><strong style="color:#ffffff">Working on:</strong> WeatherScope TN, Nutrition Workshop Manager</li>
-      <li><strong style="color:#ffffff">Learning:</strong> Python, C++, C#, Java, Linux</li>
-      <li><strong style="color:#ffffff">Focus:</strong> Pentesting, Networking, Backend Development, CTFs</li>
-      <li><strong style="color:#ffffff">Collaboration:</strong> School/College CS Projects</li>
-      <li><strong style="color:#ffffff">Email:</strong> <a href="mailto:sshaniskar04@hotmail.com" style="color:#6ad3ff;text-decoration:underline;">sshaniskar04@hotmail.com</a></li>
-    </ul>
-  </div>
+      <div style="height:1px;background:#2b3138;margin:10px 0 14px 0;"></div>
 
-  <div style="flex:0 0 320px;min-width:220px;display:flex;align-items:center;justify-content:center;">
-    <div style="width:100%;max-width:320px;border-radius:14px;overflow:hidden;box-shadow: 0 10px 38px rgba(2,6,23,0.7);border:1px solid rgba(255,255,255,0.035);background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.004));padding:10px;">
-      <img src="https://cdn.pfps.gg/banners/67305-chillin.gif" alt="Hanishkar GIF" style="display:block;width:100%;height:auto;border-radius:10px;" />
+      <p style="margin:0 0 12px 0;line-height:1.6;color:#cbd7e0;">
+        I’m a student diving deep into <strong>programming</strong> and <strong>cybersecurity</strong>.<br/>
+        I like clean code, dark themes, and learning something new every day.
+      </p>
+
+      <h3 style="margin:6px 0 8px 0;color:#ffb86b;font-size:18px;">🔥 What I Do</h3>
+
+      <ul style="margin:0 0 0 18px;line-height:1.7;color:#cbd7e0;">
+        <li><strong style="color:#ffffff">Working on:</strong> WeatherScope TN, Nutrition Workshop Manager</li>
+        <li><strong style="color:#ffffff">Learning:</strong> Python, C++, C#, Java, Linux</li>
+        <li><strong style="color:#ffffff">Focus:</strong> Pentesting, Networking, Backend Development, CTFs</li>
+        <li><strong style="color:#ffffff">Collaboration:</strong> School/College CS Projects</li>
+        <li><strong style="color:#ffffff">Email:</strong> <a href="mailto:sshaniskar04@hotmail.com" style="color:#6ad3ff;">sshaniskar04@hotmail.com</a></li>
+      </ul>
     </div>
+
+    <!-- Right column: image card (keeps centered and responsive) -->
+    <div style="flex:0 0 320px;min-width:200px;display:flex;align-items:center;justify-content:center;">
+      <div style="width:100%;max-width:320px;border-radius:12px;overflow:hidden;border:1px solid rgba(255,255,255,0.03);box-shadow:0 8px 30px rgba(0,0,0,0.6);padding:8px;background:rgba(255,255,255,0.01);">
+        <!-- keep image URL as your GIF; if it fails, GitHub will show broken image icon -->
+        <img src="https://cdn.pfps.gg/banners/67305-chillin.gif"
+             alt="Hanishkar GIF"
+             style="display:block;width:100%;height:auto;border-radius:8px;" />
+      </div>
+    </div>
+
   </div>
 
 </div>
@@ -52,12 +65,12 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,js,html,css&theme=dark" height="45" alt="languages"/>
 </p>
 
-### 🛠 IDEs & Operating Systems
+### 🛠 IDEs & OS
 <p>
   <img src="https://skillicons.dev/icons?i=pycharm,clion,vscode,visualstudio,linux,arch,kali&theme=dark" height="45" alt="ides"/>
 </p>
 
-### ⚡ Backend, Databases & Frameworks
+### ⚡ Backend, DB & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,flask,mongodb,mysql,git,unity,arduino&theme=dark" height="45" alt="backend"/>
 </p>
@@ -83,18 +96,10 @@
 # 🌐 Socials
 
 <p>
-  <a href="https://github.com/kar-hk" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="github"/>
-  </a>
-  <a href="https://linkedin.com/in/hanishkar" title="LinkedIn" style="margin-left:10px;">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="linkedin"/>
-  </a>
-  <a href="https://instagram.com/hanishkar__" title="Instagram" style="margin-left:10px;">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" alt="instagram"/>
-  </a>
-  <a href="https://hackerrank.com/hanzohani04" title="HackerRank" style="margin-left:10px;">
-    <img src="https://skillicons.dev/icons?i=hackerrank&theme=dark" height="40" alt="hackerrank"/>
-  </a>
+  <a href="https://github.com/kar-hk" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="github"/></a>
+  <a href="https://linkedin.com/in/hanishkar" title="LinkedIn" style="margin-left:10px;"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="linkedin"/></a>
+  <a href="https://instagram.com/hanishkar__" title="Instagram" style="margin-left:10px;"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="40" alt="instagram"/></a>
+  <a href="https://hackerrank.com/hanzohani04" title="HackerRank" style="margin-left:10px;"><img src="https://skillicons.dev/icons?i=hackerrank&theme=dark" height="40" alt="hackerrank"/></a>
 </p>
 
 ---

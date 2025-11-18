@@ -11,35 +11,32 @@
 </div>
 
 ---
-
 ## 🖤 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+
+<div style="flex: 1;">
 
 <h2>Hi, I'm <b>Hanishkar 👋</b></h2>
 
-I’m a student diving deep into **programming** and **cybersecurity**.  
+I’m a student diving deep into <b>programming</b> and <b>cybersecurity</b>.  
 I like clean code, dark themes, and learning something new every day.
 
 ### 🔥 What I Do
-- **Working on:** WeatherScope TN, Nutrition Workshop Manager  
-- **Learning:** Python, C++, C#, Java, Linux  
-- **Focus:** Pentesting, Networking, Backend Development, CTFs  
-- **Collaboration:** School/College CS Projects  
-- **Email:** <a href="mailto:sshaniskar04@hotmail.com">sshaniskar04@hotmail.com</a>
+- <b>Working on:</b> WeatherScope TN, Nutrition Workshop Manager  
+- <b>Learning:</b> Python, C++, C#, Java, Linux  
+- <b>Focus:</b> Pentesting, Networking, Backend Development, CTFs  
+- <b>Collaboration:</b> School/College CS Projects  
+- <b>Email:</b> <a href="mailto:sshaniskar04@hotmail.com">sshaniskar04@hotmail.com</a>
 
-</td>
+</div>
 
-<td width="40%" align="center" valign="middle" style="padding-top:15px;">
-  <img src="https://cdn.pfps.gg/banners/67305-chillin.gif"
-       width="100%"
-       style="border-radius:12px; display:block; margin:auto;" />
-</td>
-</tr>
-</table>
+<div style="flex: 0.9; text-align:center;">
+  <img src="https://cdn.pfps.gg/banners/67305-chillin.gif" 
+       style="width:100%; border-radius:12px;" />
+</div>
 
+</div>
 
 ---
 

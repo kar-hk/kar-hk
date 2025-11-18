@@ -13,28 +13,35 @@
 </div>
 
 ---
+<br>
+
 ## 🖤 About Me
 
 <table>
-  <tr>
-    <td width="60%">
-      Hi, I'm **Hamishkar 👋** I’m a student diving deep into **programming** and **cybersecurity**.  
-      I like clean code, dark themes, and learning something new every day.
+<tr>
+<td width="60%">
+  
+Hi, I'm **Hamishkar 👋** I’m a student diving deep into **programming** and **cybersecurity**.  
+I like clean code, dark themes, and learning something new every day.
 
-      <ul>
-        <li>🔭 **Working on:** WeatherScope TN, Nutrition Workshop Manager</li>
-        <li>🧠 **Learning:** Python, C++, C#, Java, Linux</li>
-        <li>🛡 **Focus:** Pentesting, Networking, Backend Development, CTFs</li>
-        <li>🤝 **Collaboration:** School/College CS Projects</li>
-        <li>📧 **Email:** sshaniskar04@hotmail.com</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://cdn.pfps.gg/banners/67305-chillin.gif" width="453" style="border-radius:10px;"/>
-    </td>
-  </tr>
+---
+
+* 🔭 **Working on:** WeatherScope TN, Nutrition Workshop Manager  
+* 🧠 **Learning:** Python, C++, C#, Java, Linux  
+* 🛡 **Focus:** Pentesting, Networking, Backend Development, CTFs  
+* 🤝 **Collaboration:** School/College CS Projects  
+* 📧 **Email:** [sshaniskar04@hotmail.com](mailto:sshaniskar04@hotmail.com)
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://cdn.pfps.gg/banners/67305-chillin.gif" width="100%" style="border-radius:10px;"/>
+
+</td>
+</tr>
 </table>
 
+---
 ---
 
 # ⚙️ Tech Stack  

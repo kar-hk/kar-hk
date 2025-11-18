@@ -42,7 +42,7 @@ I like clean code, dark themes, and learning something new every day.
   <!-- GIF FIT INSIDE BOX -->
   <img src="https://cdn.pfps.gg/banners/67305-chillin.gif"
        width="300"
-       height="200"
+       height="300"
        style="display:block;" />
 
 </div>

@@ -18,7 +18,7 @@
 <tr>
 <td width="60%" valign="top">
 
-## Hi, I'm **Hanishkar 👋**
+<h2>Hi, I'm <b>Hanishkar 👋</b></h2>
 
 I’m a student diving deep into **programming** and **cybersecurity**.  
 I like clean code, dark themes, and learning something new every day.
@@ -32,11 +32,14 @@ I like clean code, dark themes, and learning something new every day.
 
 </td>
 
-<td width="40%" align="center">
-  <img src="https://cdn.pfps.gg/banners/67305-chillin.gif" width="100%" style="border-radius:10px;" />
+<td width="40%" align="center" valign="middle" style="padding-top:15px;">
+  <img src="https://cdn.pfps.gg/banners/67305-chillin.gif"
+       width="100%"
+       style="border-radius:12px; display:block; margin:auto;" />
 </td>
 </tr>
 </table>
+
 
 ---
 

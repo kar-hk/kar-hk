@@ -11,39 +11,29 @@
 </div>
 
 ---
-
 # 🖤 About Me
 
-<table>
-<tr>
+<div style="overflow:auto;">
 
-<!-- LEFT SIDE -->
-<td width="60%" valign="top">
+  <!-- RIGHT SIDE GIF -->
+  <img src="https://i.pinimg.com/originals/30/39/7d/30397d16dabfb5a0b782307ddc82760b.gif"
+       width="260"
+       style="float:right; margin-left:20px; border-radius:10px;" />
 
-### Hi, I'm **Hanishkar** 👋  
+  <!-- LEFT SIDE TEXT -->
+  <h3>Hi, I'm <strong>Hanishkar</strong> 👋</h3>
 
-I’m a student diving deep into **programming** and **cybersecurity**.  
-I like clean code, dark themes, and learning something new every day.
+  I’m a student diving deep into <strong>programming</strong> and <strong>cybersecurity</strong>.<br>
+  I like clean code, dark themes, and learning something new every day.
 
-### 🔥 What I Do
-- **Working on:** WeatherScope TN, Nutrition Workshop Manager  
-- **Learning:** Python, C++, C#, Java, Linux  
-- **Focus:** Pentesting, Networking, Backend Development, CTFs  
-- **Collaboration:** School/College CS Projects  
-- **Email:** <a href="mailto:sshaniskar04@hotmail.com">sshaniskar04@hotmail.com</a>
+  ### 🔥 What I Do
+  - **Working on:** WeatherScope TN, Nutrition Workshop Manager  
+  - **Learning:** Python, C++, C#, Java, Linux  
+  - **Focus:** Pentesting, Networking, Backend Development, CTFs  
+  - **Collaboration:** School/College CS Projects  
+  - **Email:** <a href="mailto:sshaniskar04@hotmail.com">sshaniskar04@hotmail.com</a>
 
-</td>
-
-<!-- RIGHT SIDE -->
-<td width="40%" valign="top" align="center">
-
-<img src="https://cdn.pfps.gg/banners/67305-chillin.gif"
-width="250"
-     style="border-radius:10px;" />     
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 

@@ -19,21 +19,23 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
   
-Hi, I'm **Hamishkar 👋** I'm a student diving deep into **programming** and **cybersecurity**.  
-I like clean code, dark themes, and learning something new every day.
+Hi there! I'm **Hamishkar 👋** A dedicated student diving deep into **programming** and **cybersecurity**.  
+I prioritize clean code, dark themes, and continuous learning.
 
----
-
-* **<span style="color: #4CAF50;">💡</span> Working on:** WeatherScope TN, Nutrition Workshop Manager  
-* **<span style="color: #2196F3;">🧠</span> Learning:** Python, C++, C#, Java, Linux  
-* **<span style="color: #FFC107;">🎯</span> Focus:** Pentesting, Networking, Backend Development, CTFs  
-* **<span style="color: #E91E63;">🤝</span> Collaboration:** School/College CS Projects  
-* **<span style="color: #9C27B0;">📧</span> Email:** [sshaniskar04@hotmail.com](mailto:sshaniskar04@hotmail.com)
+<br>
+  
+| Status | Details |
+| :---: | :--- |
+| **✨** | **Projects:** WeatherScope TN, Nutrition Workshop Manager |
+| **🔥** | **Stack:** Python, C++, C#, Java, Linux |
+| **🔒** | **Expertise:** Pentesting, Networking, Backend Development, CTFs |
+| **🤝** | **Open For:** School/College CS Projects |
+| **📧** | **Contact:** [sshaniskar04@hotmail.com](mailto:sshaniskar04@hotmail.com) |
 
 </td>
-<td width="35%" align="center">
+<td width="40%" align="center">
 
 <img src="https://cdn.pfps.gg/banners/67305-chillin.gif" width="100%" style="border-radius:10px;"/>
 

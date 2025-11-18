@@ -40,7 +40,7 @@ I like clean code, dark themes, and learning something new every day.
 <div style="width:300px; height:200px; overflow:hidden; border-radius:10px; border:1px solid #333;">
 
   <!-- GIF FIT INSIDE BOX -->
-  <img src="https://i.pinimg.com/originals/30/39/7d/30397d16dabfb5a0b782307ddc82760b.gif"
+  <img src="https://cdn.pfps.gg/banners/67305-chillin.gif"
        width="300"
        height="200"
        style="display:block;" />

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.pfps.gg/banners/67305-chillin.gif" width="750" height="230" style="border-radius:12px; object-fit: cover;">
+  <img src="" width="750" height="230" style="border-radius:12px; object-fit: cover;">
 </div>
 <!-- ========================= -->
 <!--     🐉 GOATED DARK        -->
@@ -33,7 +33,7 @@ I like clean code, dark themes, and learning something new every day.
 
 <td width="40%" align="center">
 
-<img src="https://cdn.pfps.gg/banners/91687-noctornus.gif" width="453" style="border-radius:10px;"/>
+<img src="https://cdn.pfps.gg/banners/67305-chillin.gif" width="453" style="border-radius:10px;"/>
 
 </td>
 </tr>

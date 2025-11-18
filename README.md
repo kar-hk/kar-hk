@@ -37,7 +37,7 @@ I like clean code, dark themes, and learning something new every day.
 <!-- RIGHT SIDE -->
 <td width="40%" valign="top" align="center">
 
-<img src="https://i.pinimg.com/originals/30/39/7d/30397d16dabfb5a0b782307ddc82760b.gif"
+<img src="https://cdn.pfps.gg/banners/67305-chillin.gif"
      width="300"
      style="border-radius:10px;" />
 

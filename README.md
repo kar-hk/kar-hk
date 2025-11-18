@@ -21,6 +21,7 @@
 <td width="60%" valign="top">
 
 ### Hi, I'm **Hanishkar** 👋  
+
 I’m a student diving deep into **programming** and **cybersecurity**.  
 I like clean code, dark themes, and learning something new every day.
 
@@ -36,16 +37,9 @@ I like clean code, dark themes, and learning something new every day.
 <!-- RIGHT SIDE -->
 <td width="40%" valign="top" align="center">
 
-<!-- FIXED BOX SIZE -->
-<div style="width:300px; height:200px; overflow:hidden; border-radius:10px; border:1px solid #333;">
-
-  <!-- GIF FIT INSIDE BOX -->
-  <img src="https://cdn.pfps.gg/banners/67305-chillin.gif"
-       width="300"
-       height="300"
-       style="display:block;" />
-
-</div>
+<img src="https://i.pinimg.com/originals/30/39/7d/30397d16dabfb5a0b782307ddc82760b.gif"
+     width="300"
+     style="border-radius:10px;" />
 
 </td>
 

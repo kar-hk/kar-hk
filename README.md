@@ -13,39 +13,62 @@
 </div>
 
 ---
+<br>
+
 <p align="center">
-  <img src="https://cdn.pfps.gg/banners/67305-chillin.gif" width="100%" style="border-radius:10px;"/>
+  <img src="https://cdn.pfps.gg/banners/67305-chillin.gif" width="100%" style="border-radius:12px; border: 3px solid #673AB7;"/>
 </p>
 
-## 🖤 Hamishkar | Programming & Cyber 🛡️
+## 🖤 Hamishkar | Developer & Security Enthusiast 🛡️
 
-Hi there! I'm **Hamishkar 👋** A dedicated student diving deep into programming and cybersecurity. I value clean code, dark themes, and continuous learning.
+Hi there! I'm **Hamishkar 👋** A dedicated student diving deep into **programming** and **cybersecurity**. I prioritize clean code, dark themes, and continuous learning.
 
----
+<hr>
 
-### 🔥 Skillset & Focus
+<table>
+<tr>
+<td width="55%" valign="top">
+  
+### 🛠️ Current Status & Goals
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge">
+<ul style="list-style-type: none; padding-left: 0;">
+    <li>
+        **<span style="color: #673AB7; font-weight: bold;">🔭 Projects:</span>** WeatherScope TN, Nutrition Workshop Manager
+    </li>
+    <li style="margin-top: 10px;">
+        **<span style="color: #FF9800; font-weight: bold;">🎯 Focus:</span>** Pentesting / Networking / Backend Dev / CTFs
+    </li>
+    <li style="margin-top: 10px;">
+        **<span style="color: #4CAF50; font-weight: bold;">🤝 Collab:</span>** School/College CS Projects
+    </li>
+    <li style="margin-top: 10px;">
+        **<span style="color: #9C27B0; font-weight: bold;">📧 Contact:</span>** <a href="mailto:sshaniskar04@hotmail.com">sshaniskar04@hotmail.com</a>
+    </li>
+</ul>
+</td>
+
+<td width="45%" valign="top">
+
+### 💡 Core Stack
+
+<p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge">
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++ Badge">
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C# Badge">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge">
+    <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux Badge">
 </p>
 
-### 💻 Current Endeavors
+</td>
+</tr>
+</table>
 
-| Category | Details | Status Emojis |
-| :--- | :--- | :---: |
-| **Projects** | WeatherScope TN, Nutrition Workshop Manager | 💡 |
-| **Focus** | Pentesting, Networking, Backend Development | 🎯 |
-| **Collaboration** | School/College CS Projects | 🤝 |
+<hr>
 
----
-
-### 📧 Contact
-
-**sshaniskar04@hotmail.com** (Feel free to reach out!)
+<p align="center">
+    <img src="https://img.shields.io/badge/Clean_Code-Dark_Mode-black?style=flat-square" alt="Clean Code Badge">
+    <img src="https://img.shields.io/badge/Learning_Every_Day-Yes-red?style=flat-square" alt="Learning Badge">
+</p>
 
 ---
 ---

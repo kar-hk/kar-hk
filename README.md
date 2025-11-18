@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.pfps.gg/banners/90507-pluvieux.jpeg" width="750" height="230" style="border-radius:12px; object-fit: cover;">
+  <img src="https://cdn.pfps.gg/banners/87188-chase-your-dreams.png" width="750" height="230" style="border-radius:12px; object-fit: cover;">
 </div>
 <!-- ========================= -->
 <!--     🐉 GOATED DARK        -->

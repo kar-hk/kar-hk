@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" width="750" height="230" style="border-radius:12px; object-fit: cover;">
+  <img src="https://cdn.pfps.gg/banners/86792-jesus-banner.jpeg" width="750" height="230" style="border-radius:12px; object-fit: cover;">
 </div>
 <!-- ========================= -->
 <!--     🐉 GOATED DARK        -->

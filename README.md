@@ -13,42 +13,32 @@
 ---
 # 🖤 About Me
 
-<div style="overflow:auto;">
+<h3>Hey, I'm <strong>Hanishkar</strong> 👋</h3>
 
-  <!-- RIGHT SIDE GIF -->
-  <img src="https://cdn.pfps.gg/banners/67305-chillin.gif"
-       width="260"
-       style="float:right; margin-left:20px; border-radius:10px;" />
+I don’t follow trends — I follow **systems, structure, and security**.  
+I build with intent, break with precision, and learn with obsession.  
+What started as pure curiosity in programming evolved into a deep passion for  
+**cybersecurity, backend engineering, and low-level system internals**.
 
-  <!-- LEFT SIDE TEXT -->
-  <h3>Hey, I'm <strong>Hanishkar</strong> 👋</h3>
+Terminal at midnight. Logs scrolling. Dark UI. Coffee cooling.  
+That’s my workspace.  
+I don’t just learn how things work —  
+**I learn how they fail, and how to defend them.**
 
-  I don’t chase trends — I chase **control, clarity, and core system mastery**.  
-  I build with intention, break with precision, and learn with obsession.  
-  What started as simple curiosity in code turned into a deep grind across  
-  **cybersecurity, backend engineering, and low-level system internals**.
+### 🔥 What I’m Into
+- 🧠 **Building:** High-performance, logic-driven applications  
+- 🛡 **Security:** Ethical hacking, penetration testing, networking  
+- ⚙️ **Engineering:** Backend systems, APIs, automation  
+- 🏴‍☠️ **Playground:** CTFs, Linux labs, exploits & attack simulations  
 
-  Terminal at midnight. Logs scrolling. Dark UI. Coffee cooling.  
-  That’s my workspace.  
-  I don’t just learn how things work…  
-  **I learn how they break — and how to secure them.**
+### 🚀 Current Journey
+- 📌 **Projects:** WeatherScope TN, Nutrition Workshop Manager  
+- 💻 **Languages:** Python, C++, C#, Java  
+- 🐧 **Environment:** Linux, Kali, Arch  
+- 🎯 **Long-Term Goal:** Full-stack security engineer & independent tech creator  
 
-  ### 🔥 What I’m Into
-  - 🧠 **Building:** High-performance, logic-driven applications  
-  - 🛡 **Security:** Ethical hacking, penetration testing, networking  
-  - ⚙️ **Engineering:** Backend systems, APIs, automation  
-  - 🏴‍☠️ **Playground:** CTFs, Linux labs, exploits & attack simulations  
-
-  ### 🚀 Current Journey
-  - 📌 **Projects:** WeatherScope TN, Nutrition Workshop Manager  
-  - 💻 **Languages:** Python, C++, C#, Java  
-  - 🐧 **Environment:** Linux, Kali, Arch  
-  - 🎯 **Long-Term Goal:** Full-stack security engineer & independent tech creator  
-
-  ### 📬 Contact
-  - **Email:** <a href="mailto:sshaniskar04@hotmail.com">sshaniskar04@hotmail.com</a>
-
-</div>
+### 📬 Contact
+- **Email:** <a href="mailto:sshaniskar04@hotmail.com">sshaniskar04@hotmail.com</a>
 
 ---
 
@@ -92,5 +82,5 @@
 <div align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300" style="border-radius:10px;" />
   <br><br>
-  <b style="color:white;">Thanks for being here — stay dangerous ⚡</b>
+  <b>Thanks for being here — stay dangerous ⚡</b>
 </div>

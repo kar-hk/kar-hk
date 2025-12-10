@@ -21,16 +21,25 @@
        style="float:right; margin-left:20px; border-radius:10px;" />
 
   <!-- LEFT SIDE TEXT -->
-  <h3>Hi, I'm <strong>Hanishkar</strong> 👋</h3>
+  <h3>Hey, I'm <strong>Hanishkar</strong> 👋</h3>
 
-  I’m a student diving deep into <strong>programming</strong> and <strong>cybersecurity</strong>.<br>
-  I like clean code, dark themes, and learning something new every day.
+  A student developer driven by **curiosity, code, and cybersecurity**.  
+  I enjoy breaking things to understand how they work — then rebuilding them better.  
+  I live in the terminal, love dark themes, and I’m obsessed with learning how systems really operate under the hood.
 
-  ### 🔥 What I Do
-  - **Working on:** WeatherScope TN, Nutrition Workshop Manager  
-  - **Learning:** Python, C++, C#, Java, Linux  
-  - **Focus:** Pentesting, Networking, Backend Development, CTFs  
-  - **Collaboration:** School/College CS Projects  
+  ### 🔥 What I’m Into
+  - 🧠 **Building:** Logical, performance-focused applications  
+  - 🛡 **Security:** Ethical hacking, penetration testing, networking  
+  - ⚙️ **Engineering:** Backend systems, APIs, automation  
+  - 🏴‍☠️ **Playground:** CTFs, Linux labs, exploits & scripts  
+
+  ### 🚀 Current Journey
+  - **Projects:** WeatherScope TN, Nutrition Workshop Manager  
+  - **Languages:** Python, C++, C#, Java  
+  - **Environment:** Linux, Kali, Arch  
+  - **Goal:** Become a full-stack security engineer  
+
+  ### 📬 Contact
   - **Email:** <a href="mailto:sshaniskar04@hotmail.com">sshaniskar04@hotmail.com</a>
 
 </div>

@@ -23,27 +23,30 @@
   <!-- LEFT SIDE TEXT -->
   <h3>Hey, I'm <strong>Hanishkar</strong> 👋</h3>
 
-  A student developer driven by **curiosity, code, and cybersecurity**.  
-  I enjoy breaking things to understand how they work — then rebuilding them better.  
-  I live in the terminal, love dark themes, and I’m obsessed with learning how systems really operate under the hood.
+  Not here to flex — I’m here to **build, break, learn, and dominate systems**.  
+  I run on **curiosity, caffeine, and clean logic**. Started with simple code, stayed for  
+  **cybersecurity, backend engineering, and low-level system mastery**.
+
+  Late-night debugging, terminal life, dark UIs, silent progress — that’s my rhythm.  
+  I don’t just learn how things work…  
+  **I learn how they fail.**
 
   ### 🔥 What I’m Into
-  - 🧠 **Building:** Logical, performance-focused applications  
-  - 🛡 **Security:** Ethical hacking, penetration testing, networking  
+  - 🧠 **Building:** Performance-driven, logic-heavy applications  
+  - 🛡 **Security:** Ethical hacking, pentesting, networking  
   - ⚙️ **Engineering:** Backend systems, APIs, automation  
-  - 🏴‍☠️ **Playground:** CTFs, Linux labs, exploits & scripts  
+  - 🏴‍☠️ **Playground:** CTFs, Linux labs, exploits & attack simulations  
 
   ### 🚀 Current Journey
-  - **Projects:** WeatherScope TN, Nutrition Workshop Manager  
-  - **Languages:** Python, C++, C#, Java  
-  - **Environment:** Linux, Kali, Arch  
-  - **Goal:** Become a full-stack security engineer  
+  - 📌 **Projects:** WeatherScope TN, Nutrition Workshop Manager  
+  - 💻 **Languages:** Python, C++, C#, Java  
+  - 🐧 **Environment:** Linux, Kali, Arch  
+  - 🎯 **Long-Term Goal:** Full-stack security engineer & independent tech creator  
 
   ### 📬 Contact
   - **Email:** <a href="mailto:sshaniskar04@hotmail.com">sshaniskar04@hotmail.com</a>
 
 </div>
-
 ---
 
 # ⚙️ Tech Stack

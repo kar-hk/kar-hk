@@ -7,7 +7,7 @@
 <!-- ========================= -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Aspiring+Ethical+Hacker;Cybersecurity+Enthusiast;Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Ethical+Hacker+in+Progress;Cybersecurity+Enthusiast;Backend+Engineer;Tech+Explorer" />
 </div>
 
 ---
@@ -23,17 +23,19 @@
   <!-- LEFT SIDE TEXT -->
   <h3>Hey, I'm <strong>Hanishkar</strong> 👋</h3>
 
-  Not here to flex — I’m here to **build, break, learn, and dominate systems**.  
-  I run on **curiosity, caffeine, and clean logic**. Started with simple code, stayed for  
-  **cybersecurity, backend engineering, and low-level system mastery**.
+  I don’t chase trends — I chase **control, clarity, and core system mastery**.  
+  I build with intention, break with precision, and learn with obsession.  
+  What started as simple curiosity in code turned into a deep grind across  
+  **cybersecurity, backend engineering, and low-level system internals**.
 
-  Late-night debugging, terminal life, dark UIs, silent progress — that’s my rhythm.  
+  Terminal at midnight. Logs scrolling. Dark UI. Coffee cooling.  
+  That’s my workspace.  
   I don’t just learn how things work…  
-  **I learn how they fail.**
+  **I learn how they break — and how to secure them.**
 
   ### 🔥 What I’m Into
-  - 🧠 **Building:** Performance-driven, logic-heavy applications  
-  - 🛡 **Security:** Ethical hacking, pentesting, networking  
+  - 🧠 **Building:** High-performance, logic-driven applications  
+  - 🛡 **Security:** Ethical hacking, penetration testing, networking  
   - ⚙️ **Engineering:** Backend systems, APIs, automation  
   - 🏴‍☠️ **Playground:** CTFs, Linux labs, exploits & attack simulations  
 
@@ -47,6 +49,7 @@
   - **Email:** <a href="mailto:sshaniskar04@hotmail.com">sshaniskar04@hotmail.com</a>
 
 </div>
+
 ---
 
 # ⚙️ Tech Stack

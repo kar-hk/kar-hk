@@ -7,7 +7,7 @@
 <!-- ========================= -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Ethical+Hacker+in+Progress;Cybersecurity+Enthusiast;Backend+Engineer;Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Ethical+Hacker+in+Progress;Cybersecurity+Enthusiast;Tech+Explorer" />
 </div>
 
 ---
@@ -18,7 +18,7 @@
 I don’t follow trends — I follow **systems, structure, and security**.  
 I build with intent, break with precision, and learn with obsession.  
 What started as pure curiosity in programming evolved into a deep passion for  
-**cybersecurity, backend engineering, and low-level system internals**.
+**cybersecurity and low-level system internals**.
 
 Terminal at midnight. Logs scrolling. Dark UI. Coffee cooling.  
 That’s my workspace.  
@@ -35,10 +35,10 @@ I don’t just learn how things work —
 - 📌 **Projects:** WeatherScope TN, Nutrition Workshop Manager  
 - 💻 **Languages:** Python, C++, C#, Java  
 - 🐧 **Environment:** Linux, Kali, Arch  
-- 🎯 **Long-Term Goal:** Full-stack security engineer & independent tech creator  
+- 🎯 **Long-Term Goal:** Full-stack Ethical Hacker & independent tech creator  
 
 ### 📬 Contact
-- **Email:** <a href="mailto:sshaniskar04@hotmail.com">sshaniskar04@hotmail.com</a>
+- **Email:** <a href="mailto:sshanishkar04@hotmail.com">sshanishkar04@hotmail.com</a>
 
 ---
 

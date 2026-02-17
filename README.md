@@ -31,12 +31,6 @@ I don’t just learn how things work —
 - ⚙️ **Engineering:** Backend systems, APIs, automation  
 - 🏴‍☠️ **Playground:** CTFs, Linux labs, exploits & attack simulations  
 
-### 🚀 Current Journey
-- 📌 **Projects:** WeatherScope TN, Nutrition Workshop Manager  
-- 💻 **Languages:** Python, C++, C#, Java  
-- 🐧 **Environment:** Linux, Kali, Arch  
-- 🎯 **Long-Term Goal:** Full-stack Ethical Hacker & independent tech creator  
-
 ### 📬 Contact
 - **Email:** <a href="mailto:sshanishkar04@hotmail.com">sshanishkar04@hotmail.com</a>
 

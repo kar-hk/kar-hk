@@ -2,9 +2,6 @@
   <img src="https://cdn.pfps.gg/banners/86792-jesus-banner.jpeg" width="750" height="230" style="border-radius:12px;" />
 </div>
 
-<!-- ========================= -->
-<!--        🐉 GOATED DARK     -->
-<!-- ========================= -->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Ethical+Hacker+in+Progress;Cybersecurity+Enthusiast;Tech+Explorer" />
@@ -14,22 +11,6 @@
 # 🖤 About Me
 
 <h3>Hey, I'm <strong>Hanishkar</strong> 👋</h3>
-
-I don’t follow trends — I follow **systems, structure, and security**.  
-I build with intent, break with precision, and learn with obsession.  
-What started as pure curiosity in programming evolved into a deep passion for  
-**cybersecurity and low-level system internals**.
-
-Terminal at midnight. Logs scrolling. Dark UI. Coffee cooling.  
-That’s my workspace.  
-I don’t just learn how things work —  
-**I learn how they fail, and how to defend them.**
-
-### 🔥 What I’m Into
-- 🧠 **Building:** High-performance, logic-driven applications  
-- 🛡 **Security:** Ethical hacking, penetration testing, networking  
-- ⚙️ **Engineering:** Backend systems, APIs, automation  
-- 🏴‍☠️ **Playground:** CTFs, Linux labs, exploits & attack simulations  
 
 ### 📬 Contact
 - **Email:** <a href="mailto:sshanishkar04@hotmail.com">sshanishkar04@hotmail.com</a>

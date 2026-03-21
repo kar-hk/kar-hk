@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Ethical+Hacker+in+Progress;Cybersecurity+Enthusiast;Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Code&size=26&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hanishkar+Senthilkumar;Cybersecurity+Enthusiast;Tech+Explorer" />
 </div>
 
 ---
